@@ -13,6 +13,7 @@ A supervisor provided you with information regarding the leak. it appears that t
 Firstly, you will need to evaluate details about the incident. Then, you will review the controls in place to prevent data leaks. Next, you’ll identify ways to improve information privacy at the company. Finally, you’ll justify why you think your recommendations will make data handling at the company more secure. 
 
 Step-By-Step Instructions
+
 Analyze the situation
 The principle of least priviledge is a fundamental security control that helps maintain information privacy, However, least priviledge starts to lose its effectiveness when too many users are given access to information. Data leaks commonly happen as information gets passed between people without oversight.
 
@@ -39,7 +40,11 @@ Consider the issues you identified earlier, Then write 20-60 words (2-3 sentence
 
 
 Be sure to include in your responce:
+
 2-3 sentences analyzing the factors that led to the incident 
+
 2-3 sentences summarizing NIST SP 800-53: AC-6
+
 2 control enhancement recommendatiions to improve least priviledge
+
 2-3 sentences justifying your recommendations
